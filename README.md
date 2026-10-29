@@ -33,11 +33,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### 🚀 Featured project
+### 🚀 Featured projects
 
 #### ♟️ [Chess Game](https://github.com/Manel-Bouraoui/chess-game)
 Real-time chess app built with **React + TypeScript** and **Spring Boot**.
 Play against Stockfish AI (difficulty 1–10) or challenge a friend online over **WebSocket (STOMP)**, with full move validation (castling, en passant, checkmate/stalemate), move history and captured pieces.
+
+#### 🌊 [Azure Beach Club](https://github.com/Manel-Bouraoui/azure-beach-club-project)
+Luxury beach-club website built as a **reusable, config-driven template** with **React 19, TanStack Start, TypeScript and Tailwind CSS**. The whole site (brand, menu, events, SEO) is rebranded from a single config file.
 
 ### 📊 GitHub stats
 
